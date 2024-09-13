@@ -467,7 +467,7 @@ dependencies:
   - win_inet_pton=1.1.0=py312haa95532_0
   - winpty=0.4.3=4
   - wrapt=1.14.1=py312h2bbff1b_0
-  -xgboost==2.1.1
+  - xgboost=2.1.1
   - xarray=2023.6.0=py312haa95532_0
   - xlwings=0.31.4=py312haa95532_0
   - xyzservices=2022.9.0=py312haa95532_1
